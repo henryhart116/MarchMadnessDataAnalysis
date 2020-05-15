@@ -1,0 +1,60 @@
+---
+title: "project_correlations"
+author: "Henry Hart"
+date: "February 26, 2020"
+output: word_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readxl)
+library(nortest)
+myAnova = function(model_lm, includeRegressor=FALSE){
+  n = length(model_lm$residuals)
+  k = n - model_lm$df.residual - 1;
+  anova_lm = anova(model_lm)
+  
+  SSTO_df = sum(anova_lm[,1])
+  SSTO = sum(anova_lm[,2])
+  
+  SSR0 = sum(anova_lm[1:k,2]) # SSR
+  MSR0 = sum(anova_lm[1:k,2])/k # MSR
+  MSE0 = anova_lm[(k+1),3] # MSE
+  F0 = MSR0/MSE0 # F value
+  pval0 = 1-pf(F0, k, n-(k+1)) #Pr(>F)   
+  anova_lm['Regression',1]=k
+  anova_lm['Regression',2]=SSR0
+  anova_lm['Regression',3]=MSR0
+  anova_lm['Regression',4]=F0
+  anova_lm['Regression',5]=pval0
+  if(includeRegressor){
+    #Include the original Regressors
+    anova_lm = anova_lm[c(k+2,1:(k+1)),]
+  }else{
+    anova_lm = anova_lm[c(k+2,k+1),]
+  }
+  anova_lm['Total',1]=SSTO_df
+  anova_lm['Total',2]=SSTO
+  print(anova_lm)
+  myAnova = anova_lm
+}
+```
+
+##Multicollinearity analysis of non-time variables using monthly averages
+```{r}
+bball <- read.delim("C:/Users/henry/cx4240/cbb.csv",sep=",")
+attach(bball)
+```
+
+```{r}
+library(tidyverse)
+input = select(bball,3:21)
+cor(input)
+library(Hmisc)
+rcorr(as.matrix(input), type="pearson")
+```
+
+```{r}
+model <- glm()
+```
