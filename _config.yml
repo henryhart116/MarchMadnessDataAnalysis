@@ -1,0 +1,8 @@
+title: Machine Learning Madness
+description: CX 4240 Computational Data Analysis Project by Henry Hart and Marie Desrochers
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
