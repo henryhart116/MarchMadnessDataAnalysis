@@ -87,6 +87,9 @@ def ModelSelection():
 # Best in order are LogisticRegression (75.3%), SVC (74.6%), MLPClassifier (73.8%), GaussianNB (72.7%), RandomForestClassifier (71.2%), ExtraTreesClassifier (70.8%)
 
 # Training
+training_data = pd.DataFrame.drop(match_up_data,['SEED','SEED_OPP'],1).dropna()
+training_x = pd.DataFrame.drop(training_data,'result',1)
+training_y = training_data['result']
+log_model.fit(training_x,training_y)
 
-
-# Testing
+# Testing on 2022 Games
