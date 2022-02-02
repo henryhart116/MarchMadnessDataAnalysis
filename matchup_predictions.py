@@ -61,7 +61,30 @@ def VariableSelection():
 # Most important are WAB_OPP, WAB, BARTHAG, BARTHAG_OPP, ADJOE, ADJOE_OPP
 
 # Model Selection
+log_model = LogisticRegression(solver='sag',max_iter=10000)
+extra_trees_model = ExtraTreesClassifier(n_estimators=100,random_state=1)
+random_forest_model = RandomForestClassifier(n_estimators=100,random_state=1)
+NN_model = MLPClassifier((512,256,),activation='logistic',solver='adam',max_iter=1000)
+nb_model = GaussianNB()
+svm_model = SVC(probability=True)
 
+model_list = [nb_model,log_model,svm_model,random_forest_model,extra_trees_model,NN_model]
+def ModelSelection():
+    p_dict = {}
+    model_select_data = pd.DataFrame.drop(match_up_data,['SEED','SEED_OPP'],1).dropna()
+    model_select_x = pd.DataFrame.drop(model_select_data,'result',1)
+    model_select_y = model_select_data['result']
+    for model in model_list:
+        model.fit(model_select_x,model_select_y)
+        performance = cross_val_score(model,model_select_x,model_select_y, cv=5,scoring='f1_weighted')
+        p_dict[model] = np.average(performance)
+    print(p_dict)
+    best_model = max(p_dict, key=lambda k: p_dict[k])
+    print(best_model)
+
+    print(p_dict.values())
+# All models have >70% cross_val_score
+# Best in order are LogisticRegression (75.3%), SVC (74.6%), MLPClassifier (73.8%), GaussianNB (72.7%), RandomForestClassifier (71.2%), ExtraTreesClassifier (70.8%)
 
 # Training
 
