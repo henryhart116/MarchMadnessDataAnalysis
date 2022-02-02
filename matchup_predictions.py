@@ -89,14 +89,15 @@ def ModelSelection():
 # Training
 training_data = pd.DataFrame.drop(match_up_data,['SEED','SEED_OPP'],1).dropna()
 training_x = pd.DataFrame.drop(training_data,'result',1)
+#training_x = pd.DataFrame.drop(training_x,['WAB_OPP', 'WAB', 'BARTHAG', 'BARTHAG_OPP'],1)
 training_y = training_data['result']
 log_model.fit(training_x,training_y)
 
 # Testing on 2022 Games
-team_data_2022 = pd.read_csv('cbb22.csv', header=0,index_col='TEAM')
+team_data_2022 = pd.read_csv('cbb22.csv', header=0,index_col='Team').dropna()
 #win_perc = pd.Series(team_data['W']/team_data['G'])
 #team_data['win%'] = win_perc.values
-team_data_2022 = pd.DataFrame.drop(team_data_2022, 'W',1)
+team_data_2022 = pd.DataFrame.drop(team_data_2022, 'Rec',1)
 team_data_2022 = pd.DataFrame.drop(team_data_2022, 'G',1)
 
 game_data_2022 = pd.read_csv('2022Matchups.csv', header=0)
@@ -104,6 +105,9 @@ game_data_2022['result'] = game_data_2022['result'].str[0]
 #game_data = game_data[game_data['result']=='W']
 game_data_2022['team'] = game_data_2022['team'].str.replace('+',' ')
 game_data_2022 = game_data_2022.set_index('team')
+game_data_2022 = game_data_2022[game_data_2022['result']!='+']
+game_data_2022 = game_data_2022[game_data_2022['result']!='-']
+game_data_2022 = game_data_2022[game_data_2022['result']!='0']
 #game_data['winner'] = game_data['team']
 
 match_up_data_2022 = game_data_2022.join(team_data_2022,how="inner")
@@ -111,8 +115,22 @@ match_up_data_2022 = match_up_data_2022.reset_index().set_index('opponent')
 match_up_data_2022 = match_up_data_2022.join(team_data_2022,how="inner",rsuffix='_OPP')
 match_up_data_2022 = match_up_data_2022.rename(columns={'index':'TEAM'})
 match_up_data_2022 = match_up_data_2022.reset_index().set_index('TEAM').rename(columns={'index':'opponent'})
-match_up_data_2022 = pd.DataFrame.drop(match_up_data_2022,['CONF','CONF_OPP','date','opponent'],1)
 
-test_x = pd.DataFrame.drop(training_data,'result',1)
-test_y = training_data['result']
-log_model.predict(test_x)
+test = pd.DataFrame.drop(match_up_data_2022,['Conf','Conf_OPP','date','opponent'],1)
+test_x = pd.DataFrame.drop(test,'result',1)
+#test_x = pd.DataFrame.drop(test_x,['WAB_OPP', 'WAB', 'Barthag', 'Barthag_OPP'],1)
+test_y = test['result']
+pred_y = log_model.predict(test_x)
+# pred_prob_y = log_model.predict_proba(test_x).to_list()
+# for i in range(len(pred_prob_y)):
+#     for j in range(len(pred_prob_y[i])):
+#         pred_prob_y[i][j] = round(pred_prob_y[i][j],3)
+probs = match_up_data_2022[['opponent','result']]
+probs['predicted'] = pd.Series(pred_y).values
+# probs['predicted probabilities'] = pd.Series(pred_prob_y).values
+# probs[['2ND','W','E8','F4','R32','R64','S16']] = probs['predicted probabilities'].str.split(',',expand=True)
+pd.set_option("display.max_rows", 68, "display.max_columns", 5)
+print('The percent of correct picks are :', round(len(probs[probs['result']==probs['predicted']])/len(probs),5)*100,'%')
+print(probs[probs['result']!=probs['predicted']])
+probs[probs['result']!=probs['predicted']].to_csv("2022GamePredictions.csv")
+pd.reset_option("display.max_rows", "display.max_columns")

@@ -1,0 +1,1432 @@
+TEAM,opponent,result,predicted
+Longwood,Abilene Christian,L,W
+Sam Houston St.,Abilene Christian,W,L
+Utah Valley,Abilene Christian,L,W
+South Dakota,Air Force,W,L
+Texas Southern,Air Force,L,W
+Tulsa,Air Force,L,W
+UNLV,Air Force,L,W
+Utah St.,Air Force,L,W
+Fordham,Akron,W,L
+Kent St.,Akron,W,L
+Baylor,Alabama,L,W
+Davidson,Alabama,W,L
+Georgia,Alabama,W,L
+Gonzaga,Alabama,L,W
+Houston,Alabama,L,W
+Iona,Alabama,W,L
+Memphis,Alabama,W,L
+Mississippi St.,Alabama,W,L
+Missouri,Alabama,W,L
+Tennessee,Alabama,L,W
+Jackson St.,Alabama A&M,L,W
+Tennessee St.,Alabama A&M,L,W
+Arkansas Pine Bluff,Alabama St.,W,L
+Jackson St.,Alabama St.,L,W
+North Carolina Central,Alabama St.,L,W
+Binghamton,Albany,W,L
+Boston College,Albany,L,W
+Eastern Kentucky,Albany,W,L
+UMBC,Albany,L,W
+Grambling St.,Alcorn St.,W,L
+Southern,Alcorn St.,L,W
+Texas Southern,Alcorn St.,L,W
+Marist,American,L,W
+Mount St. Mary's,American,L,W
+St. Francis PA,American,L,W
+Charlotte,Appalachian St.,W,L
+Louisiana Lafayette,Appalachian St.,W,L
+South Alabama,Appalachian St.,L,W
+Troy,Appalachian St.,W,L
+Tennessee,Arizona,W,L
+Creighton,Arizona St.,L,W
+Grand Canyon,Arizona St.,L,W
+Oregon,Arizona St.,L,W
+Hofstra,Arkansas,W,L
+LSU,Arkansas,L,W
+Mississippi St.,Arkansas,W,L
+Oklahoma,Arkansas,W,L
+Vanderbilt,Arkansas,W,L
+Alabama St.,Arkansas Pine Bluff,L,W
+Bethune Cookman,Arkansas Pine Bluff,L,W
+Louisiana Lafayette,Arkansas St.,W,L
+Boston University,Army,L,W
+LIU Brooklyn,Army,W,L
+La Salle,Army,W,L
+Lafayette,Army,W,L
+Lehigh,Army,W,L
+Navy,Army,L,W
+Connecticut,Auburn,W,L
+Dayton,Austin Peay,L,W
+Howard,Austin Peay,L,W
+North Florida,Austin Peay,W,L
+Southeast Missouri St.,Austin Peay,W,L
+Tennessee Martin,Austin Peay,W,L
+Tennessee St.,Austin Peay,W,L
+Creighton,BYU,W,L
+Pacific,BYU,W,L
+Saint Mary's,BYU,L,W
+San Francisco,BYU,L,W
+Santa Clara,BYU,W,L
+Utah Valley,BYU,W,L
+Vanderbilt,BYU,W,L
+FIU,Ball St.,W,L
+Indiana St.,Ball St.,L,W
+Massachusetts,Ball St.,L,W
+Alabama,Baylor,W,L
+Oklahoma St.,Baylor,W,L
+Texas Tech,Baylor,W,L
+Loyola Marymount,Bellarmine,W,L
+South Dakota,Bellarmine,W,L
+Chattanooga,Belmont,L,W
+Dayton,Belmont,W,L
+Iona,Belmont,L,W
+Morehead St.,Belmont,W,L
+Arkansas Pine Bluff,Bethune Cookman,W,L
+Bryant,Bethune Cookman,L,W
+Jackson St.,Bethune Cookman,L,W
+Albany,Binghamton,L,W
+Columbia,Binghamton,W,L
+Hartford,Binghamton,W,L
+NJIT,Binghamton,W,L
+UMass Lowell,Binghamton,L,W
+Cal St. Bakersfield,Boise St.,W,L
+Saint Louis,Boise St.,W,L
+St. Bonaventure,Boise St.,W,L
+UC Irvine,Boise St.,W,L
+Albany,Boston College,W,L
+Clemson,Boston College,L,W
+Notre Dame,Boston College,L,W
+Pittsburgh,Boston College,W,L
+Virginia Tech,Boston College,L,W
+Army,Boston University,W,L
+Colgate,Boston University,L,W
+Holy Cross,Boston University,W,L
+Loyola MD,Boston University,W,L
+Marist,Boston University,W,L
+Northeastern,Boston University,W,L
+Sam Houston St.,Boston University,L,W
+Central Michigan,Bowling Green,W,L
+Oakland,Bowling Green,L,W
+Western Carolina,Bowling Green,W,L
+Brown,Bradley,W,L
+Drake,Bradley,L,W
+Duquesne,Bradley,W,L
+Howard,Bradley,W,L
+Illinois St.,Bradley,W,L
+Indiana St.,Bradley,W,L
+Northern Iowa,Bradley,L,W
+Bradley,Brown,L,W
+Dartmouth,Brown,W,L
+Harvard,Brown,L,W
+Penn,Brown,W,L
+Bethune Cookman,Bryant,W,L
+Dartmouth,Bryant,W,L
+La Salle,Bucknell,L,W
+Loyola MD,Bucknell,L,W
+Rider,Bucknell,L,W
+Siena,Bucknell,L,W
+Canisius,Buffalo,W,L
+Miami OH,Buffalo,W,L
+North Texas,Buffalo,L,W
+Creighton,Butler,L,W
+DePaul,Butler,L,W
+Oklahoma,Butler,L,W
+Chicago St.,Cal Baptist,W,L
+Northern Colorado,Cal Baptist,L,W
+Utah Valley,Cal Baptist,L,W
+Cal St. Northridge,Cal Poly,W,L
+Portland St.,Cal Poly,L,W
+UC Davis,Cal Poly,L,W
+Boise St.,Cal St. Bakersfield,L,W
+Northern Arizona,Cal St. Bakersfield,W,L
+San Jose St.,Cal St. Fullerton,W,L
+UC Riverside,Cal St. Fullerton,W,L
+UT Rio Grande Valley,Cal St. Fullerton,W,L
+Cal Poly,Cal St. Northridge,L,W
+Portland St.,Cal St. Northridge,L,W
+San Diego,Cal St. Northridge,L,W
+Fresno St.,California,L,W
+Santa Clara,California,L,W
+Utah,California,W,L
+Georgia Southern,Campbell,W,L
+UNC Asheville,Campbell,W,L
+Winthrop,Campbell,W,L
+Buffalo,Canisius,L,W
+Florida Gulf Coast,Canisius,L,W
+Quinnipiac,Canisius,L,W
+Rider,Canisius,L,W
+Saint Peter's,Canisius,L,W
+Eastern Kentucky,Central Arkansas,L,W
+Lipscomb,Central Arkansas,L,W
+North Alabama,Central Arkansas,L,W
+North Florida,Central Arkansas,W,L
+Oral Roberts,Central Arkansas,L,W
+Hartford,Central Connecticut,L,W
+LIU Brooklyn,Central Connecticut,L,W
+St. Francis NY,Central Connecticut,L,W
+Bowling Green,Central Michigan,L,W
+Kent St.,Central Michigan,L,W
+Northern Illinois,Central Michigan,L,W
+High Point,Charleston Southern,L,W
+Appalachian St.,Charlotte,L,W
+Drexel,Charlotte,W,L
+Florida Atlantic,Charlotte,W,L
+Monmouth,Charlotte,L,W
+Old Dominion,Charlotte,W,L
+Rice,Charlotte,L,W
+College of Charleston,Chattanooga,W,L
+Western Carolina,Chattanooga,W,L
+Cal Baptist,Chicago St.,L,W
+SIU Edwardsville,Chicago St.,L,W
+Tennessee St.,Chicago St.,L,W
+Illinois,Cincinnati,L,W
+Memphis,Cincinnati,W,L
+Monmouth,Cincinnati,W,L
+SMU,Cincinnati,L,W
+Temple,Cincinnati,W,L
+Tulane,Cincinnati,W,L
+Wichita St.,Cincinnati,L,W
+Boston College,Clemson,W,L
+Rutgers,Clemson,W,L
+Virginia,Clemson,L,W
+Northern Kentucky,Cleveland St.,W,L
+South Carolina,Coastal Carolina,L,W
+Wofford,Coastal Carolina,L,W
+Boston University,Colgate,W,L
+Harvard,Colgate,W,L
+Lehigh,Colgate,W,L
+Navy,Colgate,L,W
+Niagara,Colgate,W,L
+Northeastern,Colgate,W,L
+Pittsburgh,Colgate,W,L
+Syracuse,Colgate,L,W
+Chattanooga,College of Charleston,L,W
+James Madison,College of Charleston,W,L
+Stetson,College of Charleston,W,L
+Tulane,College of Charleston,L,W
+Tulane,College of Charleston,L,W
+Oregon,Colorado,L,W
+Southern Illinois,Colorado,W,L
+Stanford,Colorado,L,W
+Washington,Colorado,W,L
+Washington St.,Colorado,L,W
+Creighton,Colorado St.,L,W
+Mississippi St.,Colorado St.,L,W
+Saint Mary's,Colorado St.,L,W
+UNLV,Colorado St.,W,L
+Binghamton,Columbia,L,W
+Penn,Columbia,L,W
+Auburn,Connecticut,L,W
+Creighton,Connecticut,W,L
+Marquette,Connecticut,L,W
+Seton Hall,Connecticut,W,L
+West Virginia,Connecticut,W,L
+Howard,Coppin St.,L,W
+Loyola MD,Coppin St.,L,W
+South Carolina St.,Coppin St.,L,W
+Penn,Cornell,W,L
+Yale,Cornell,W,L
+Arizona St.,Creighton,W,L
+BYU,Creighton,L,W
+Butler,Creighton,W,L
+Colorado St.,Creighton,W,L
+Connecticut,Creighton,L,W
+Marquette,Creighton,L,W
+Villanova,Creighton,L,W
+Brown,Dartmouth,L,W
+Bryant,Dartmouth,L,W
+Georgetown,Dartmouth,L,W
+Alabama,Davidson,L,W
+New Mexico St.,Davidson,W,L
+VCU,Davidson,W,L
+Austin Peay,Dayton,W,L
+Belmont,Dayton,L,W
+George Mason,Dayton,W,L
+Kansas,Dayton,L,W
+Lipscomb,Dayton,W,L
+Miami FL,Dayton,L,W
+Mississippi,Dayton,W,L
+UMass Lowell,Dayton,W,L
+Butler,DePaul,W,L
+Rutgers,DePaul,L,W
+Seton Hall,DePaul,L,W
+UNC Wilmington,Delaware,W,L
+Houston Baptist,Denver,L,W
+UMKC,Denver,L,W
+Fort Wayne,Detroit,W,L
+Green Bay,Detroit,W,L
+Northeastern,Detroit,W,L
+Cal Baptist,Dixie St.,L,W
+Cal St. Northridge,Dixie St.,W,L
+Southern Utah,Dixie St.,L,W
+Bradley,Drake,W,L
+Loyola Chicago,Drake,L,W
+Richmond,Drake,L,W
+Charlotte,Drexel,L,W
+Saint Joseph's,Drexel,L,W
+Towson,Drexel,L,W
+Florida St.,Duke,W,L
+Gonzaga,Duke,L,W
+Kentucky,Duke,L,W
+Miami FL,Duke,W,L
+Ohio St.,Duke,W,L
+Bradley,Duquesne,L,W
+Massachusetts,Duquesne,L,W
+New Hampshire,Duquesne,L,W
+Northeastern,Duquesne,W,L
+UC Irvine,Duquesne,L,W
+Memphis,East Carolina,L,W
+Tulane,East Carolina,L,W
+Kent St.,East Tennessee St.,L,W
+Missouri St.,East Tennessee St.,L,W
+Morehead St.,East Tennessee St.,L,W
+Murray St.,East Tennessee St.,L,W
+The Citadel,East Tennessee St.,W,L
+UNC Asheville,East Tennessee St.,W,L
+UNC Greensboro,East Tennessee St.,W,L
+VMI,East Tennessee St.,W,L
+Tennessee Martin,Eastern Illinois,L,W
+Tennessee St.,Eastern Illinois,L,W
+Albany,Eastern Kentucky,L,W
+Central Arkansas,Eastern Kentucky,W,L
+Lipscomb,Eastern Kentucky,L,W
+Northern Kentucky,Eastern Kentucky,L,W
+Radford,Eastern Kentucky,W,L
+Stetson,Eastern Kentucky,W,L
+FIU,Eastern Michigan,L,W
+Illinois St.,Eastern Michigan,L,W
+Niagara,Eastern Michigan,L,W
+Northern Illinois,Eastern Michigan,W,L
+Western Illinois,Eastern Michigan,L,W
+Washington St.,Eastern Washington,L,W
+James Madison,Elon,L,W
+Winthrop,Elon,L,W
+Illinois St.,Evansville,L,W
+Tennessee Tech,Evansville,L,W
+Ball St.,FIU,L,W
+Eastern Michigan,FIU,W,L
+Florida Gulf Coast,FIU,L,W
+Marshall,FIU,L,W
+UNC Greensboro,FIU,L,W
+UTSA,FIU,W,L
+Western Kentucky,FIU,L,W
+Loyola MD,Fairfield,W,L
+Marist,Fairfield,W,L
+Quinnipiac,Fairfield,W,L
+Siena,Fairfield,W,L
+Stony Brook,Fairfield,L,W
+St. Francis PA,Fairleigh Dickinson,L,W
+Maryland,Florida,W,L
+Mississippi,Florida,W,L
+Mississippi St.,Florida,L,W
+Ohio St.,Florida,L,W
+Texas Southern,Florida,W,L
+Alcorn St.,Florida A&M,L,W
+Bethune Cookman,Florida A&M,W,L
+Charlotte,Florida Atlantic,L,W
+High Point,Florida Atlantic,W,L
+James Madison,Florida Atlantic,W,L
+New Mexico,Florida Atlantic,W,L
+Western Kentucky,Florida Atlantic,L,W
+Canisius,Florida Gulf Coast,W,L
+FIU,Florida Gulf Coast,W,L
+Kennesaw St.,Florida Gulf Coast,W,L
+Mercer,Florida Gulf Coast,L,W
+Rhode Island,Florida Gulf Coast,L,W
+Duke,Florida St.,L,W
+Georgia Tech,Florida St.,W,L
+Miami FL,Florida St.,L,W
+Miami FL,Florida St.,L,W
+South Carolina,Florida St.,W,L
+Syracuse,Florida St.,W,L
+Virginia Tech,Florida St.,W,L
+Akron,Fordham,L,W
+George Washington,Fordham,W,L
+Manhattan,Fordham,W,L
+Maryland Eastern Shore,Fordham,W,L
+Rice,Fordham,L,W
+Detroit,Fort Wayne,L,W
+Northern Kentucky,Fort Wayne,W,L
+SIU Edwardsville,Fort Wayne,W,L
+Western Michigan,Fort Wayne,W,L
+California,Fresno St.,W,L
+Nevada,Fresno St.,W,L
+Utah,Fresno St.,W,L
+Navy,Furman,W,L
+VMI,Furman,W,L
+Winthrop,Furman,W,L
+North Carolina Central,Gardner Webb,W,L
+USC Upstate,Gardner Webb,W,L
+VMI,Gardner Webb,W,L
+Winthrop,Gardner Webb,W,L
+Dayton,George Mason,L,W
+George Washington,George Mason,W,L
+James Madison,George Mason,W,L
+Maryland,George Mason,L,W
+Nevada,George Mason,W,L
+Old Dominion,George Mason,W,L
+St. Bonaventure,George Mason,L,W
+Washington,George Mason,W,L
+Fordham,George Washington,L,W
+George Mason,George Washington,L,W
+Rhode Island,George Washington,L,W
+UMass Lowell,George Washington,W,L
+Wright St.,George Washington,L,W
+Dartmouth,Georgetown,W,L
+Longwood,Georgetown,L,W
+Syracuse,Georgetown,L,W
+Alabama,Georgia,L,W
+Jacksonville,Georgia,L,W
+Memphis,Georgia,L,W
+Campbell,Georgia Southern,L,W
+Little Rock,Georgia Southern,W,L
+Louisiana Lafayette,Georgia Southern,L,W
+South Florida,Georgia Southern,L,W
+UT Arlington,Georgia Southern,L,W
+Louisiana Lafayette,Georgia St.,L,W
+UT Arlington,Georgia St.,W,L
+Florida St.,Georgia Tech,L,W
+Miami OH,Georgia Tech,W,L
+Alabama,Gonzaga,W,L
+Duke,Gonzaga,W,L
+Alcorn St.,Grambling St.,L,W
+Incarnate Word,Grambling St.,W,L
+Southern,Grambling St.,L,W
+Arizona St.,Grand Canyon,W,L
+Sam Houston St.,Grand Canyon,W,L
+San Francisco,Grand Canyon,L,W
+Stephen F. Austin,Grand Canyon,W,L
+Detroit,Green Bay,L,W
+Robert Morris,Green Bay,L,W
+High Point,Hampton,L,W
+Norfolk St.,Hampton,L,W
+Binghamton,Hartford,L,W
+Central Connecticut,Hartford,W,L
+New Hampshire,Hartford,L,W
+St. Francis PA,Hartford,W,L
+Brown,Harvard,W,L
+Colgate,Harvard,L,W
+Massachusetts,Harvard,W,L
+Penn,Harvard,W,L
+Siena,Harvard,W,L
+Northern Colorado,Hawaii,W,L
+South Florida,Hawaii,W,L
+Charleston Southern,High Point,W,L
+Florida Atlantic,High Point,L,W
+Hampton,High Point,W,L
+Howard,High Point,L,W
+South Carolina St.,High Point,W,L
+Winthrop,High Point,L,W
+Arkansas,Hofstra,L,W
+Stony Brook,Hofstra,W,L
+Towson,Hofstra,W,L
+UNC Wilmington,Hofstra,W,L
+Boston University,Holy Cross,L,W
+Lafayette,Holy Cross,L,W
+Lehigh,Holy Cross,L,W
+Alabama,Houston,W,L
+Wisconsin,Houston,W,L
+Denver,Houston Baptist,W,L
+Incarnate Word,Houston Baptist,W,L
+Austin Peay,Howard,W,L
+Bradley,Howard,L,W
+Coppin St.,Howard,W,L
+High Point,Howard,W,L
+South Carolina St.,Howard,W,L
+Idaho St.,Idaho,W,L
+Portland St.,Idaho,L,W
+Sacramento St.,Idaho,L,W
+South Dakota St.,Idaho,L,W
+Idaho,Idaho St.,L,W
+Cincinnati,Illinois,W,L
+Marquette,Illinois,W,L
+Maryland,Illinois,W,L
+Michigan St.,Illinois,L,W
+Valparaiso,Illinois Chicago,L,W
+Bradley,Illinois St.,L,W
+Eastern Michigan,Illinois St.,W,L
+Evansville,Illinois St.,W,L
+Jackson St.,Illinois St.,W,L
+Missouri St.,Illinois St.,L,W
+UNC Wilmington,Illinois St.,L,W
+Valparaiso,Illinois St.,W,L
+Grambling St.,Incarnate Word,L,W
+Houston Baptist,Incarnate Word,L,W
+Iowa,Indiana,W,L
+Michigan,Indiana,W,L
+Ohio St.,Indiana,L,W
+Penn St.,Indiana,W,L
+Purdue,Indiana,L,W
+Syracuse,Indiana,W,L
+Ball St.,Indiana St.,W,L
+Bradley,Indiana St.,L,W
+Missouri St.,Indiana St.,L,W
+Valparaiso,Indiana St.,W,L
+Alabama,Iona,L,W
+Belmont,Iona,W,L
+Saint Louis,Iona,W,L
+Indiana,Iowa,L,W
+Penn St.,Iowa,W,L
+Rutgers,Iowa,W,L
+Oklahoma,Iowa St.,W,L
+TCU,Iowa St.,W,L
+Texas,Iowa St.,L,W
+Texas Tech,Iowa St.,L,W
+Xavier,Iowa St.,L,W
+Alabama St.,Jackson St.,W,L
+Bethune Cookman,Jackson St.,W,L
+Illinois St.,Jackson St.,L,W
+Louisiana Lafayette,Jackson St.,L,W
+Texas Southern,Jackson St.,L,W
+Georgia,Jacksonville,W,L
+Kennesaw St.,Jacksonville,W,L
+Pittsburgh,Jacksonville,W,L
+UNC Wilmington,Jacksonville,L,W
+South Alabama,Jacksonville St.,W,L
+Troy,Jacksonville St.,W,L
+Valparaiso,Jacksonville St.,W,L
+College of Charleston,James Madison,L,W
+Elon,James Madison,W,L
+Florida Atlantic,James Madison,L,W
+George Mason,James Madison,L,W
+Virginia,James Madison,L,W
+Dayton,Kansas,W,L
+Kentucky,Kansas,W,L
+Texas Tech,Kansas,W,L
+Mississippi,Kansas St.,W,L
+Texas,Kansas St.,L,W
+Texas Tech,Kansas St.,L,W
+Wichita St.,Kansas St.,L,W
+Florida Gulf Coast,Kennesaw St.,L,W
+Jacksonville,Kennesaw St.,L,W
+Lipscomb,Kennesaw St.,W,L
+North Alabama,Kennesaw St.,W,L
+Akron,Kent St.,L,W
+Central Michigan,Kent St.,W,L
+East Tennessee St.,Kent St.,W,L
+Northern Illinois,Kent St.,W,L
+Southern,Kent St.,W,L
+Toledo,Kent St.,L,W
+Duke,Kentucky,W,L
+Kansas,Kentucky,L,W
+LSU,Kentucky,W,L
+Notre Dame,Kentucky,W,L
+Army,LIU Brooklyn,L,W
+Central Connecticut,LIU Brooklyn,W,L
+Mount St. Mary's,LIU Brooklyn,L,W
+Sacred Heart,LIU Brooklyn,W,L
+Arkansas,LSU,W,L
+Kentucky,LSU,L,W
+Mississippi,LSU,W,L
+Tennessee,LSU,L,W
+Army,La Salle,L,W
+Bucknell,La Salle,W,L
+Penn,La Salle,L,W
+Sacred Heart,La Salle,W,L
+Saint Joseph's,La Salle,L,W
+Army,Lafayette,L,W
+Holy Cross,Lafayette,W,L
+Rutgers,Lafayette,L,W
+Sacred Heart,Lafayette,W,L
+Army,Lehigh,L,W
+Colgate,Lehigh,L,W
+Holy Cross,Lehigh,W,L
+Navy,Lehigh,L,W
+Manhattan,Liberty,W,L
+Northern Iowa,Liberty,L,W
+Stephen F. Austin,Liberty,W,L
+Central Arkansas,Lipscomb,W,L
+Dayton,Lipscomb,L,W
+Eastern Kentucky,Lipscomb,W,L
+Kennesaw St.,Lipscomb,L,W
+Loyola MD,Lipscomb,L,W
+North Alabama,Lipscomb,L,W
+Tennessee St.,Lipscomb,W,L
+Tennessee Tech,Lipscomb,W,L
+Georgia Southern,Little Rock,L,W
+Southern Illinois,Little Rock,L,W
+UT Arlington,Little Rock,L,W
+Loyola Marymount,Long Beach St.,W,L
+UC Irvine,Long Beach St.,L,W
+UC Riverside,Long Beach St.,L,W
+Abilene Christian,Longwood,W,L
+Georgetown,Longwood,W,L
+Old Dominion,Longwood,W,L
+Western Carolina,Longwood,W,L
+Appalachian St.,Louisiana Lafayette,L,W
+Arkansas St.,Louisiana Lafayette,L,W
+Coastal Carolina,Louisiana Lafayette,L,W
+Georgia Southern,Louisiana Lafayette,W,L
+Georgia St.,Louisiana Lafayette,W,L
+Jackson St.,Louisiana Lafayette,W,L
+Marshall,Louisiana Lafayette,W,L
+Troy,Louisiana Lafayette,L,W
+UT Arlington,Louisiana Lafayette,W,L
+Stephen F. Austin,Louisiana Monroe,L,W
+UT Arlington,Louisiana Monroe,L,W
+North Carolina St.,Louisiana Tech,W,L
+Maryland,Louisville,L,W
+Mississippi St.,Louisville,L,W
+North Carolina St.,Louisville,L,W
+Pittsburgh,Louisville,W,L
+Wake Forest,Louisville,L,W
+Western Kentucky,Louisville,W,L
+Drake,Loyola Chicago,W,L
+Missouri St.,Loyola Chicago,W,L
+San Francisco,Loyola Chicago,L,W
+Boston University,Loyola MD,L,W
+Bucknell,Loyola MD,W,L
+Coppin St.,Loyola MD,W,L
+Fairfield,Loyola MD,L,W
+Lipscomb,Loyola MD,W,L
+Mount St. Mary's,Loyola MD,L,W
+Long Beach St.,Loyola Marymount,L,W
+SMU,Loyola Marymount,L,W
+New Hampshire,Maine,L,W
+Fordham,Manhattan,L,W
+Liberty,Manhattan,L,W
+Niagara,Manhattan,W,L
+Old Dominion,Manhattan,W,L
+Quinnipiac,Manhattan,W,L
+American,Marist,W,L
+Boston University,Marist,L,W
+Fairfield,Marist,L,W
+Monmouth,Marist,L,W
+Rider,Marist,W,L
+VMI,Marist,L,W
+Connecticut,Marquette,W,L
+Creighton,Marquette,W,L
+Illinois,Marquette,L,W
+Providence,Marquette,L,W
+St. Bonaventure,Marquette,W,L
+Villanova,Marquette,L,W
+Xavier,Marquette,L,W
+FIU,Marshall,W,L
+Louisiana Lafayette,Marshall,L,W
+UAB,Marshall,L,W
+Wright St.,Marshall,L,W
+Florida,Maryland,L,W
+George Mason,Maryland,W,L
+Illinois,Maryland,L,W
+Louisville,Maryland,W,L
+Northwestern,Maryland,W,L
+Rutgers,Maryland,W,L
+Vermont,Maryland,L,W
+Fordham,Maryland Eastern Shore,L,W
+South Carolina St.,Maryland Eastern Shore,W,L
+Ball St.,Massachusetts,W,L
+Duquesne,Massachusetts,W,L
+Fairfield,Massachusetts,L,W
+Harvard,Massachusetts,L,W
+Northeastern,Massachusetts,W,L
+Penn St.,Massachusetts,L,W
+Rutgers,Massachusetts,L,W
+Saint Louis,Massachusetts,L,W
+UNC Greensboro,Massachusetts,L,W
+New Orleans,McNeese St.,L,W
+Alabama,Memphis,L,W
+Cincinnati,Memphis,L,W
+East Carolina,Memphis,W,L
+Georgia,Memphis,W,L
+Mississippi,Memphis,W,L
+Saint Louis,Memphis,L,W
+Tulane,Memphis,W,L
+UCF,Memphis,W,L
+Virginia Tech,Memphis,L,W
+Wichita St.,Memphis,L,W
+Florida Gulf Coast,Mercer,W,L
+Samford,Mercer,W,L
+VMI,Mercer,L,W
+Winthrop,Mercer,W,L
+Wofford,Mercer,L,W
+LIU Brooklyn,Merrimack,L,W
+St. Francis PA,Merrimack,W,L
+Dayton,Miami FL,W,L
+Duke,Miami FL,L,W
+Florida St.,Miami FL,W,L
+Florida St.,Miami FL,W,L
+UCF,Miami FL,W,L
+Buffalo,Miami OH,L,W
+Eastern Michigan,Miami OH,W,L
+Georgia Tech,Miami OH,L,W
+Indiana,Michigan,L,W
+Minnesota,Michigan,W,L
+Rutgers,Michigan,W,L
+Seton Hall,Michigan,W,L
+UCF,Michigan,W,L
+Illinois,Michigan St.,W,L
+Northwestern,Michigan St.,W,L
+Wisconsin,Michigan St.,L,W
+Rice,Middle Tennessee,W,L
+Stephen F. Austin,Middle Tennessee,W,L
+Northern Kentucky,Milwaukee,L,W
+Oakland,Milwaukee,L,W
+Robert Morris,Milwaukee,L,W
+Michigan,Minnesota,L,W
+Mississippi St.,Minnesota,L,W
+Dayton,Mississippi,L,W
+Florida,Mississippi,L,W
+Kansas St.,Mississippi,L,W
+LSU,Mississippi,L,W
+Memphis,Mississippi,L,W
+Mississippi St.,Mississippi,L,W
+Missouri,Mississippi,W,L
+Samford,Mississippi,W,L
+Western Kentucky,Mississippi,W,L
+Alabama,Mississippi St.,L,W
+Arkansas,Mississippi St.,L,W
+Colorado St.,Mississippi St.,W,L
+Florida,Mississippi St.,W,L
+Louisville,Mississippi St.,W,L
+Minnesota,Mississippi St.,W,L
+Mississippi,Mississippi St.,W,L
+Alabama,Missouri,L,W
+Mississippi,Missouri,L,W
+SMU,Missouri,L,W
+UMKC,Missouri,W,L
+East Tennessee St.,Missouri St.,W,L
+Illinois St.,Missouri St.,W,L
+Indiana St.,Missouri St.,W,L
+Loyola Chicago,Missouri St.,L,W
+Northern Iowa,Missouri St.,W,L
+South Dakota St.,Missouri St.,L,W
+Southeast Missouri St.,Missouri St.,W,L
+Charlotte,Monmouth,W,L
+Cincinnati,Monmouth,L,W
+Marist,Monmouth,W,L
+Niagara,Monmouth,W,L
+Saint Peter's,Monmouth,W,L
+Towson,Monmouth,L,W
+North Dakota,Montana,W,L
+Northern Colorado,Montana,W,L
+Weber St.,Montana,L,W
+New Mexico,Montana St.,W,L
+Northern Colorado,Montana St.,W,L
+Belmont,Morehead St.,L,W
+East Tennessee St.,Morehead St.,W,L
+Coppin St.,Morgan St.,W,L
+South Carolina St.,Morgan St.,L,W
+American,Mount St. Mary's,W,L
+LIU Brooklyn,Mount St. Mary's,W,L
+Loyola MD,Mount St. Mary's,W,L
+East Tennessee St.,Murray St.,W,L
+Binghamton,NJIT,L,W
+UMass Lowell,NJIT,L,W
+Army,Navy,W,L
+Colgate,Navy,W,L
+Furman,Navy,L,W
+Lehigh,Navy,W,L
+Virginia,Navy,L,W
+Sam Houston St.,Nebraska,L,W
+Western Illinois,Nebraska,W,L
+UMKC,Nebraska Omaha,L,W
+Western Illinois,Nebraska Omaha,L,W
+Fresno St.,Nevada,L,W
+George Mason,Nevada,L,W
+San Diego,Nevada,W,L
+Washington,Nevada,L,W
+Duquesne,New Hampshire,W,L
+Hartford,New Hampshire,W,L
+Maine,New Hampshire,W,L
+Florida Atlantic,New Mexico,L,W
+Montana St.,New Mexico,L,W
+New Mexico St.,New Mexico,L,W
+Norfolk St.,New Mexico,L,W
+Davidson,New Mexico St.,L,W
+New Mexico,New Mexico St.,W,L
+Sam Houston St.,New Mexico St.,W,L
+Washington St.,New Mexico St.,L,W
+McNeese St.,New Orleans,W,L
+Nicholls St.,New Orleans,L,W
+Presbyterian,New Orleans,W,L
+VMI,New Orleans,L,W
+Colgate,Niagara,L,W
+Eastern Michigan,Niagara,W,L
+Manhattan,Niagara,L,W
+Monmouth,Niagara,L,W
+Quinnipiac,Niagara,W,L
+Rider,Niagara,W,L
+Siena,Niagara,W,L
+New Orleans,Nicholls St.,W,L
+Northern Iowa,Nicholls St.,L,W
+Oregon St.,Nicholls St.,W,L
+Southeastern Louisiana,Nicholls St.,W,L
+Southeastern Louisiana,Nicholls St.,W,L
+Hampton,Norfolk St.,W,L
+New Mexico,Norfolk St.,W,L
+North Carolina Central,Norfolk St.,W,L
+UNC Wilmington,Norfolk St.,L,W
+Central Arkansas,North Alabama,W,L
+Kennesaw St.,North Alabama,L,W
+Lipscomb,North Alabama,W,L
+Stetson,North Alabama,W,L
+Notre Dame,North Carolina,W,L
+Wake Forest,North Carolina,W,L
+East Tennessee St.,North Carolina A&T,L,W
+Presbyterian,North Carolina A&T,L,W
+UNC Asheville,North Carolina A&T,L,W
+Alabama St.,North Carolina Central,W,L
+Gardner Webb,North Carolina Central,L,W
+Norfolk St.,North Carolina Central,L,W
+The Citadel,North Carolina Central,W,L
+USC Upstate,North Carolina Central,L,W
+Louisiana Tech,North Carolina St.,L,W
+Louisville,North Carolina St.,W,L
+Virginia,North Carolina St.,L,W
+Virginia Tech,North Carolina St.,L,W
+Wright St.,North Carolina St.,W,L
+Montana,North Dakota,L,W
+Troy,North Dakota,L,W
+Oral Roberts,North Dakota St.,L,W
+UMKC,North Dakota St.,W,L
+Western Illinois,North Dakota St.,W,L
+Austin Peay,North Florida,L,W
+Central Arkansas,North Florida,L,W
+Stetson,North Florida,W,L
+Buffalo,North Texas,W,L
+UAB,North Texas,W,L
+Boston University,Northeastern,L,W
+Colgate,Northeastern,L,W
+Detroit,Northeastern,L,W
+Duquesne,Northeastern,L,W
+Massachusetts,Northeastern,L,W
+Southern Illinois,Northeastern,L,W
+Cal St. Bakersfield,Northern Arizona,L,W
+Sacramento St.,Northern Arizona,L,W
+UT Rio Grande Valley,Northern Arizona,L,W
+Cal Baptist,Northern Colorado,W,L
+Hawaii,Northern Colorado,L,W
+Montana,Northern Colorado,L,W
+Montana St.,Northern Colorado,L,W
+Portland St.,Northern Colorado,W,L
+Sacramento St.,Northern Colorado,W,L
+San Jose St.,Northern Colorado,W,L
+Southern Utah,Northern Colorado,L,W
+Central Michigan,Northern Illinois,W,L
+Eastern Michigan,Northern Illinois,L,W
+Illinois Chicago,Northern Illinois,W,L
+Kent St.,Northern Illinois,L,W
+Washington,Northern Illinois,L,W
+Bradley,Northern Iowa,W,L
+Liberty,Northern Iowa,W,L
+Missouri St.,Northern Iowa,L,W
+Nicholls St.,Northern Iowa,W,L
+St. Bonaventure,Northern Iowa,L,W
+Valparaiso,Northern Iowa,W,L
+Cleveland St.,Northern Kentucky,L,W
+Eastern Kentucky,Northern Kentucky,W,L
+Fort Wayne,Northern Kentucky,L,W
+Milwaukee,Northern Kentucky,W,L
+Robert Morris,Northern Kentucky,W,L
+Wright St.,Northern Kentucky,L,W
+Maryland,Northwestern,L,W
+Michigan St.,Northwestern,L,W
+Boston College,Notre Dame,W,L
+Kentucky,Notre Dame,L,W
+North Carolina,Notre Dame,L,W
+Virginia Tech,Notre Dame,W,L
+Bowling Green,Oakland,W,L
+Milwaukee,Oakland,W,L
+Oklahoma St.,Oakland,L,W
+Toledo,Oakland,L,W
+Toledo,Ohio,W,L
+Duke,Ohio St.,L,W
+Florida,Ohio St.,W,L
+Indiana,Ohio St.,W,L
+Wisconsin,Ohio St.,L,W
+Arkansas,Oklahoma,L,W
+Butler,Oklahoma,W,L
+Iowa St.,Oklahoma,L,W
+Utah St.,Oklahoma,W,L
+Baylor,Oklahoma St.,L,W
+Oakland,Oklahoma St.,W,L
+TCU,Oklahoma St.,L,W
+Texas,Oklahoma St.,L,W
+Wichita St.,Oklahoma St.,W,L
+Charlotte,Old Dominion,L,W
+George Mason,Old Dominion,L,W
+Longwood,Old Dominion,L,W
+Manhattan,Old Dominion,L,W
+Penn,Old Dominion,W,L
+Central Arkansas,Oral Roberts,W,L
+North Dakota St.,Oral Roberts,W,L
+Arizona St.,Oregon,W,L
+Colorado,Oregon,W,L
+SMU,Oregon,L,W
+Stanford,Oregon,W,L
+UCLA,Oregon,L,W
+USC,Oregon,L,W
+Nicholls St.,Oregon St.,L,W
+Utah,Oregon St.,L,W
+BYU,Pacific,L,W
+UC Santa Barbara,Pacific,L,W
+Brown,Penn,L,W
+Columbia,Penn,W,L
+Cornell,Penn,L,W
+Harvard,Penn,L,W
+La Salle,Penn,W,L
+Old Dominion,Penn,L,W
+Yale,Penn,L,W
+Indiana,Penn St.,L,W
+Iowa,Penn St.,L,W
+Massachusetts,Penn St.,W,L
+Wagner,Penn St.,L,W
+San Jose St.,Pepperdine,L,W
+Southeast Missouri St.,Pepperdine,L,W
+UC Davis,Pepperdine,L,W
+Boston College,Pittsburgh,L,W
+Colgate,Pittsburgh,L,W
+Jacksonville,Pittsburgh,L,W
+Louisville,Pittsburgh,L,W
+St. John's,Pittsburgh,L,W
+Syracuse,Pittsburgh,L,W
+The Citadel,Pittsburgh,W,L
+Towson,Pittsburgh,L,W
+UMBC,Pittsburgh,W,L
+UNC Wilmington,Pittsburgh,L,W
+San Jose St.,Portland,W,L
+UC Davis,Portland,L,W
+Cal Poly,Portland St.,W,L
+Cal St. Northridge,Portland St.,W,L
+Idaho,Portland St.,W,L
+Northern Colorado,Portland St.,L,W
+Sacramento St.,Portland St.,L,W
+Alcorn St.,Prairie View A&M,L,W
+Jackson St.,Prairie View A&M,W,L
+Mississippi Valley St.,Prairie View A&M,W,L
+New Orleans,Presbyterian,L,W
+VMI,Presbyterian,L,W
+VMI,Presbyterian,L,W
+South Carolina,Princeton,L,W
+Yale,Princeton,W,L
+Marquette,Providence,W,L
+Texas Tech,Providence,L,W
+Virginia,Providence,W,L
+Wisconsin,Providence,L,W
+Indiana,Purdue,W,L
+Rutgers,Purdue,W,L
+Wisconsin,Purdue,W,L
+Canisius,Quinnipiac,W,L
+Fairfield,Quinnipiac,L,W
+Manhattan,Quinnipiac,L,W
+Niagara,Quinnipiac,L,W
+Eastern Kentucky,Radford,L,W
+USC Upstate,Radford,L,W
+Florida Gulf Coast,Rhode Island,W,L
+George Washington,Rhode Island,W,L
+Tulsa,Rhode Island,W,L
+Charlotte,Rice,W,L
+Fordham,Rice,W,L
+Middle Tennessee,Rice,L,W
+UAB,Rice,L,W
+Western Kentucky,Rice,W,L
+Drake,Richmond,W,L
+Saint Joseph's,Richmond,W,L
+Toledo,Richmond,L,W
+Bucknell,Rider,W,L
+Canisius,Rider,W,L
+Marist,Rider,L,W
+Niagara,Rider,L,W
+Green Bay,Robert Morris,W,L
+Milwaukee,Robert Morris,W,L
+Northern Kentucky,Robert Morris,L,W
+St. Francis PA,Robert Morris,L,W
+Clemson,Rutgers,L,W
+DePaul,Rutgers,W,L
+Iowa,Rutgers,L,W
+Lafayette,Rutgers,W,L
+Maryland,Rutgers,L,W
+Massachusetts,Rutgers,W,L
+Michigan,Rutgers,L,W
+Purdue,Rutgers,L,W
+Chicago St.,SIU Edwardsville,W,L
+Fort Wayne,SIU Edwardsville,L,W
+Tennessee St.,SIU Edwardsville,W,L
+UMKC,SIU Edwardsville,L,W
+Youngstown St.,SIU Edwardsville,L,W
+Cincinnati,SMU,W,L
+Loyola Marymount,SMU,W,L
+Missouri,SMU,W,L
+Oregon,SMU,W,L
+Idaho,Sacramento St.,W,L
+Northern Arizona,Sacramento St.,W,L
+Northern Colorado,Sacramento St.,L,W
+Portland St.,Sacramento St.,W,L
+UC Davis,Sacramento St.,L,W
+LIU Brooklyn,Sacred Heart,L,W
+La Salle,Sacred Heart,L,W
+St. Francis NY,Sacred Heart,W,L
+Drexel,Saint Joseph's,W,L
+La Salle,Saint Joseph's,W,L
+Richmond,Saint Joseph's,L,W
+Temple,Saint Joseph's,L,W
+Boise St.,Saint Louis,L,W
+Iona,Saint Louis,L,W
+Massachusetts,Saint Louis,W,L
+Memphis,Saint Louis,W,L
+BYU,Saint Mary's,W,L
+Colorado St.,Saint Mary's,W,L
+San Diego St.,Saint Mary's,W,L
+Canisius,Saint Peter's,W,L
+Monmouth,Saint Peter's,L,W
+Siena,Saint Peter's,W,L
+St. Francis NY,Saint Peter's,W,L
+Abilene Christian,Sam Houston St.,L,W
+Boston University,Sam Houston St.,W,L
+Grand Canyon,Sam Houston St.,L,W
+Nebraska,Sam Houston St.,W,L
+New Mexico St.,Sam Houston St.,L,W
+Stephen F. Austin,Sam Houston St.,L,W
+UTSA,Sam Houston St.,W,L
+Mercer,Samford,L,W
+Mississippi,Samford,L,W
+UNC Greensboro,Samford,W,L
+Cal St. Northridge,San Diego,W,L
+Nevada,San Diego,L,W
+UC Riverside,San Diego,L,W
+Saint Mary's,San Diego St.,L,W
+Utah St.,San Diego St.,W,L
+BYU,San Francisco,W,L
+Grand Canyon,San Francisco,W,L
+Loyola Chicago,San Francisco,W,L
+Cal St. Fullerton,San Jose St.,L,W
+Northern Colorado,San Jose St.,L,W
+Pepperdine,San Jose St.,W,L
+Portland,San Jose St.,L,W
+South Dakota,San Jose St.,L,W
+BYU,Santa Clara,L,W
+California,Santa Clara,W,L
+Stanford,Santa Clara,L,W
+TCU,Santa Clara,L,W
+UC Irvine,Santa Clara,W,L
+VMI,Seattle,W,L
+Washington,Seattle,W,L
+Connecticut,Seton Hall,L,W
+DePaul,Seton Hall,W,L
+Michigan,Seton Hall,L,W
+St. John's,Seton Hall,W,L
+Texas,Seton Hall,L,W
+Bucknell,Siena,W,L
+Fairfield,Siena,L,W
+Harvard,Siena,L,W
+Niagara,Siena,L,W
+Saint Peter's,Siena,L,W
+Appalachian St.,South Alabama,W,L
+Jacksonville St.,South Alabama,L,W
+Troy,South Alabama,W,L
+UT Arlington,South Alabama,W,L
+Coastal Carolina,South Carolina,W,L
+Florida St.,South Carolina,L,W
+Princeton,South Carolina,W,L
+UAB,South Carolina,L,W
+Vanderbilt,South Carolina,L,W
+Vanderbilt,South Carolina,L,W
+Coppin St.,South Carolina St.,W,L
+High Point,South Carolina St.,L,W
+Howard,South Carolina St.,L,W
+Maryland Eastern Shore,South Carolina St.,L,W
+Morgan St.,South Carolina St.,W,L
+South Florida,South Carolina St.,L,W
+The Citadel,South Carolina St.,L,W
+Air Force,South Dakota,L,W
+San Jose St.,South Dakota,W,L
+Southern,South Dakota,L,W
+UMKC,South Dakota,W,L
+Western Illinois,South Dakota,L,W
+Idaho,South Dakota St.,W,L
+Missouri St.,South Dakota St.,W,L
+Washington,South Dakota St.,W,L
+Washington St.,South Dakota St.,L,W
+Georgia Southern,South Florida,W,L
+Hawaii,South Florida,L,W
+South Carolina St.,South Florida,W,L
+UCF,South Florida,L,W
+Austin Peay,Southeast Missouri St.,L,W
+Missouri St.,Southeast Missouri St.,L,W
+Pepperdine,Southeast Missouri St.,W,L
+Tennessee St.,Southeast Missouri St.,W,L
+Nicholls St.,Southeastern Louisiana,L,W
+Nicholls St.,Southeastern Louisiana,L,W
+Troy,Southeastern Louisiana,L,W
+Western Michigan,Southeastern Louisiana,W,L
+Alcorn St.,Southern,W,L
+Grambling St.,Southern,W,L
+Kent St.,Southern,L,W
+South Dakota,Southern,W,L
+Texas Southern,Southern,L,W
+Tulane,Southern,L,W
+Colorado,Southern Illinois,L,W
+Little Rock,Southern Illinois,W,L
+Northeastern,Southern Illinois,W,L
+Tulsa,Southern Illinois,W,L
+UNC Wilmington,Southern Miss,L,W
+Northern Colorado,Southern Utah,W,L
+Utah Valley,Southern Utah,L,W
+Yale,Southern Utah,L,W
+Boise St.,St. Bonaventure,L,W
+George Mason,St. Bonaventure,W,L
+Marquette,St. Bonaventure,L,W
+Northern Iowa,St. Bonaventure,W,L
+VCU,St. Bonaventure,L,W
+Central Connecticut,St. Francis NY,W,L
+Saint Peter's,St. Francis NY,L,W
+St. Francis PA,St. Francis NY,L,W
+American,St. Francis PA,W,L
+Fairleigh Dickinson,St. Francis PA,W,L
+Hartford,St. Francis PA,L,W
+Robert Morris,St. Francis PA,W,L
+St. Francis NY,St. Francis PA,W,L
+Pittsburgh,St. John's,W,L
+Seton Hall,St. John's,L,W
+Chicago St.,St. Thomas,W,L
+Denver,St. Thomas,W,L
+Niagara,St. Thomas,L,W
+Western Illinois,St. Thomas,L,W
+Colorado,Stanford,W,L
+Oregon,Stanford,L,W
+Santa Clara,Stanford,W,L
+USC,Stanford,L,W
+USC,Stanford,L,W
+Washington,Stanford,W,L
+Washington St.,Stanford,L,W
+Wyoming,Stanford,L,W
+Abilene Christian,Stephen F. Austin,L,W
+Grand Canyon,Stephen F. Austin,L,W
+Liberty,Stephen F. Austin,L,W
+Louisiana Monroe,Stephen F. Austin,W,L
+Middle Tennessee,Stephen F. Austin,L,W
+Sam Houston St.,Stephen F. Austin,W,L
+College of Charleston,Stetson,L,W
+Eastern Kentucky,Stetson,L,W
+North Alabama,Stetson,L,W
+North Florida,Stetson,L,W
+Fairfield,Stony Brook,W,L
+Hofstra,Stony Brook,L,W
+Colgate,Syracuse,W,L
+Florida St.,Syracuse,L,W
+Georgetown,Syracuse,W,L
+Indiana,Syracuse,L,W
+Pittsburgh,Syracuse,W,L
+Virginia,Syracuse,W,L
+Wake Forest,Syracuse,L,W
+Iowa St.,TCU,L,W
+Oklahoma St.,TCU,W,L
+Santa Clara,TCU,W,L
+Cal Baptist,Tarleton St.,W,L
+Charleston Southern,Tarleton St.,W,L
+Sam Houston St.,Tarleton St.,L,W
+South Alabama,Tarleton St.,L,W
+Stephen F. Austin,Tarleton St.,L,W
+Cincinnati,Temple,L,W
+Saint Joseph's,Temple,W,L
+UCF,Temple,L,W
+Vanderbilt,Temple,L,W
+Alabama,Tennessee,W,L
+Arizona,Tennessee,L,W
+LSU,Tennessee,W,L
+Texas,Tennessee,W,L
+Austin Peay,Tennessee Martin,L,W
+Eastern Illinois,Tennessee Martin,W,L
+UNC Asheville,Tennessee Martin,L,W
+Austin Peay,Tennessee St.,L,W
+Chicago St.,Tennessee St.,W,L
+Eastern Illinois,Tennessee St.,W,L
+Lipscomb,Tennessee St.,L,W
+SIU Edwardsville,Tennessee St.,L,W
+Southeast Missouri St.,Tennessee St.,L,W
+Tennessee Tech,Tennessee St.,L,W
+Evansville,Tennessee Tech,W,L
+Lipscomb,Tennessee Tech,L,W
+Tennessee St.,Tennessee Tech,W,L
+Western Carolina,Tennessee Tech,W,L
+Iowa St.,Texas,W,L
+Kansas St.,Texas,W,L
+Oklahoma St.,Texas,W,L
+Seton Hall,Texas,W,L
+Tennessee,Texas,L,W
+Arkansas,Texas A&M,L,W
+Notre Dame,Texas A&M,L,W
+South Carolina,Texas A&M,W,L
+Houston Baptist,Texas A&M Corpus Chris,W,L
+Northwestern St.,Texas A&M Corpus Chris,W,L
+Air Force,Texas Southern,W,L
+Alcorn St.,Texas Southern,W,L
+Florida,Texas Southern,L,W
+Jackson St.,Texas Southern,W,L
+Southern,Texas Southern,W,L
+Troy,Texas St.,W,L
+UT Arlington,Texas St.,W,L
+Baylor,Texas Tech,L,W
+Iowa St.,Texas Tech,W,L
+Kansas,Texas Tech,L,W
+Kansas St.,Texas Tech,W,L
+Providence,Texas Tech,W,L
+East Tennessee St.,The Citadel,L,W
+North Carolina Central,The Citadel,L,W
+Pittsburgh,The Citadel,L,W
+Presbyterian,The Citadel,W,L
+South Carolina St.,The Citadel,W,L
+UNC Greensboro,The Citadel,L,W
+Western Carolina,The Citadel,W,L
+Kent St.,Toledo,W,L
+Oakland,Toledo,W,L
+Ohio,Toledo,L,W
+Richmond,Toledo,W,L
+Drexel,Towson,W,L
+Hofstra,Towson,L,W
+Monmouth,Towson,W,L
+Pittsburgh,Towson,W,L
+UNC Wilmington,Towson,W,L
+Appalachian St.,Troy,L,W
+Jacksonville St.,Troy,L,W
+Louisiana Lafayette,Troy,W,L
+North Dakota,Troy,W,L
+South Alabama,Troy,L,W
+Southeastern Louisiana,Troy,W,L
+Texas St.,Troy,L,W
+UT Arlington,Troy,W,L
+Cincinnati,Tulane,L,W
+College of Charleston,Tulane,W,L
+College of Charleston,Tulane,W,L
+East Carolina,Tulane,W,L
+Memphis,Tulane,L,W
+Southern,Tulane,W,L
+Valparaiso,Tulane,W,L
+Wichita St.,Tulane,L,W
+Wichita St.,Tulane,L,W
+Air Force,Tulsa,W,L
+Rhode Island,Tulsa,L,W
+Southern Illinois,Tulsa,L,W
+Marshall,UAB,W,L
+North Texas,UAB,L,W
+Rice,UAB,W,L
+Saint Louis,UAB,L,W
+South Carolina,UAB,W,L
+Cal Poly,UC Davis,W,L
+Pepperdine,UC Davis,W,L
+Portland,UC Davis,W,L
+Sacramento St.,UC Davis,W,L
+UC Riverside,UC Davis,L,W
+Utah St.,UC Davis,L,W
+Boise St.,UC Irvine,L,W
+Duquesne,UC Irvine,W,L
+Hawaii,UC Irvine,W,L
+Long Beach St.,UC Irvine,W,L
+Santa Clara,UC Irvine,L,W
+UC Riverside,UC Irvine,L,W
+Cal St. Fullerton,UC Riverside,L,W
+Long Beach St.,UC Riverside,W,L
+San Diego,UC Riverside,W,L
+UC Davis,UC Riverside,W,L
+UC Irvine,UC Riverside,W,L
+Cal Poly,UC San Diego,W,L
+Cal St. Bakersfield,UC San Diego,L,W
+California,UC San Diego,L,W
+Denver,UC San Diego,W,L
+George Washington,UC San Diego,L,W
+Southern Miss,UC San Diego,W,L
+UC Santa Barbara,UC San Diego,L,W
+Pacific,UC Santa Barbara,W,L
+UT Arlington,UC Santa Barbara,W,L
+Memphis,UCF,L,W
+Miami FL,UCF,L,W
+Michigan,UCF,L,W
+South Florida,UCF,W,L
+Temple,UCF,W,L
+Oregon,UCLA,W,L
+Villanova,UCLA,L,W
+Albany,UMBC,W,L
+Pittsburgh,UMBC,L,W
+UMass Lowell,UMBC,W,L
+Denver,UMKC,W,L
+Missouri,UMKC,L,W
+Nebraska Omaha,UMKC,W,L
+North Dakota St.,UMKC,L,W
+SIU Edwardsville,UMKC,W,L
+South Dakota,UMKC,L,W
+Western Illinois,UMKC,L,W
+Albany,UMass Lowell,W,L
+Albany,UMass Lowell,W,L
+Binghamton,UMass Lowell,W,L
+Dayton,UMass Lowell,L,W
+George Washington,UMass Lowell,L,W
+NJIT,UMass Lowell,W,L
+UMBC,UMass Lowell,L,W
+Campbell,UNC Asheville,L,W
+East Tennessee St.,UNC Asheville,L,W
+Tennessee Martin,UNC Asheville,W,L
+USC Upstate,UNC Asheville,W,L
+East Tennessee St.,UNC Greensboro,L,W
+FIU,UNC Greensboro,W,L
+Massachusetts,UNC Greensboro,W,L
+Samford,UNC Greensboro,L,W
+The Citadel,UNC Greensboro,W,L
+VMI,UNC Greensboro,L,W
+Vermont,UNC Greensboro,L,W
+Wofford,UNC Greensboro,L,W
+Delaware,UNC Wilmington,L,W
+Hofstra,UNC Wilmington,L,W
+Illinois St.,UNC Wilmington,W,L
+Jacksonville,UNC Wilmington,W,L
+Norfolk St.,UNC Wilmington,W,L
+Pittsburgh,UNC Wilmington,W,L
+Southern Miss,UNC Wilmington,W,L
+Towson,UNC Wilmington,L,W
+Air Force,UNLV,W,L
+Colorado St.,UNLV,L,W
+Oregon,USC,W,L
+Stanford,USC,W,L
+Stanford,USC,W,L
+Gardner Webb,USC Upstate,L,W
+North Carolina Central,USC Upstate,W,L
+Radford,USC Upstate,W,L
+UNC Asheville,USC Upstate,L,W
+Western Carolina,USC Upstate,W,L
+Georgia Southern,UT Arlington,W,L
+Georgia St.,UT Arlington,L,W
+Little Rock,UT Arlington,W,L
+Louisiana Lafayette,UT Arlington,L,W
+Louisiana Monroe,UT Arlington,W,L
+South Alabama,UT Arlington,L,W
+Texas St.,UT Arlington,L,W
+Troy,UT Arlington,L,W
+UC Santa Barbara,UT Arlington,L,W
+Cal St. Fullerton,UT Rio Grande Valley,L,W
+Northern Arizona,UT Rio Grande Valley,W,L
+FIU,UTSA,L,W
+Sam Houston St.,UTSA,L,W
+Abilene Christian,Utah,L,W
+Arizona St.,Utah,W,L
+California,Utah,L,W
+Fresno St.,Utah,L,W
+Oregon St.,Utah,W,L
+Air Force,Utah St.,W,L
+Oklahoma,Utah St.,L,W
+San Diego St.,Utah St.,L,W
+UC Davis,Utah St.,W,L
+Abilene Christian,Utah Valley,W,L
+BYU,Utah Valley,L,W
+Cal Baptist,Utah Valley,W,L
+Southern Utah,Utah Valley,W,L
+Davidson,VCU,L,W
+Dayton,VCU,L,W
+St. Bonaventure,VCU,W,L
+Wagner,VCU,W,L
+East Tennessee St.,VMI,L,W
+Furman,VMI,L,W
+Marist,VMI,W,L
+Mercer,VMI,W,L
+New Orleans,VMI,W,L
+Presbyterian,VMI,W,L
+Presbyterian,VMI,W,L
+Seattle,VMI,L,W
+UNC Greensboro,VMI,W,L
+Wofford,VMI,L,W
+Illinois Chicago,Valparaiso,W,L
+Illinois St.,Valparaiso,L,W
+Indiana St.,Valparaiso,L,W
+Jacksonville St.,Valparaiso,L,W
+Northern Iowa,Valparaiso,L,W
+Tulane,Valparaiso,L,W
+Arkansas,Vanderbilt,L,W
+BYU,Vanderbilt,L,W
+South Carolina,Vanderbilt,W,L
+South Carolina,Vanderbilt,W,L
+Temple,Vanderbilt,W,L
+Maryland,Vermont,W,L
+UNC Greensboro,Vermont,W,L
+Creighton,Villanova,W,L
+Marquette,Villanova,W,L
+UCLA,Villanova,W,L
+Clemson,Virginia,W,L
+James Madison,Virginia,W,L
+Navy,Virginia,W,L
+North Carolina St.,Virginia,W,L
+Providence,Virginia,L,W
+Syracuse,Virginia,L,W
+Virginia Tech,Virginia,L,W
+Boston College,Virginia Tech,W,L
+Florida St.,Virginia Tech,L,W
+Memphis,Virginia Tech,W,L
+North Carolina St.,Virginia Tech,W,L
+Notre Dame,Virginia Tech,L,W
+Virginia,Virginia Tech,W,L
+Penn St.,Wagner,W,L
+VCU,Wagner,L,W
+Louisville,Wake Forest,W,L
+North Carolina,Wake Forest,L,W
+Syracuse,Wake Forest,W,L
+Colorado,Washington,L,W
+George Mason,Washington,L,W
+Nevada,Washington,W,L
+Northern Illinois,Washington,W,L
+Seattle,Washington,L,W
+South Dakota St.,Washington,L,W
+Stanford,Washington,L,W
+Winthrop,Washington,W,L
+Colorado,Washington St.,W,L
+Eastern Washington,Washington St.,W,L
+New Mexico St.,Washington St.,W,L
+Stanford,Washington St.,W,L
+Montana,Weber St.,W,L
+Connecticut,West Virginia,L,W
+Bowling Green,Western Carolina,L,W
+Chattanooga,Western Carolina,L,W
+Longwood,Western Carolina,L,W
+Tennessee Tech,Western Carolina,L,W
+The Citadel,Western Carolina,L,W
+USC Upstate,Western Carolina,L,W
+Eastern Michigan,Western Illinois,W,L
+Nebraska,Western Illinois,L,W
+Nebraska Omaha,Western Illinois,W,L
+North Dakota St.,Western Illinois,L,W
+South Dakota,Western Illinois,W,L
+UMKC,Western Illinois,W,L
+FIU,Western Kentucky,W,L
+Florida Atlantic,Western Kentucky,W,L
+Louisville,Western Kentucky,L,W
+Mississippi,Western Kentucky,L,W
+Rice,Western Kentucky,L,W
+Fort Wayne,Western Michigan,L,W
+Southeastern Louisiana,Western Michigan,L,W
+Cincinnati,Wichita St.,W,L
+Memphis,Wichita St.,W,L
+Oklahoma St.,Wichita St.,L,W
+Tulane,Wichita St.,W,L
+Tulane,Wichita St.,W,L
+American,William & Mary,W,L
+Drexel,William & Mary,L,W
+Elon,William & Mary,L,W
+Hofstra,William & Mary,L,W
+Northeastern,William & Mary,L,W
+Campbell,Winthrop,L,W
+Elon,Winthrop,W,L
+Furman,Winthrop,L,W
+Gardner Webb,Winthrop,L,W
+High Point,Winthrop,W,L
+Mercer,Winthrop,L,W
+Washington,Winthrop,L,W
+Houston,Wisconsin,L,W
+Michigan St.,Wisconsin,W,L
+Ohio St.,Wisconsin,W,L
+Providence,Wisconsin,W,L
+Purdue,Wisconsin,L,W
+Coastal Carolina,Wofford,W,L
+Mercer,Wofford,W,L
+UNC Greensboro,Wofford,W,L
+VMI,Wofford,W,L
+George Washington,Wright St.,W,L
+Marshall,Wright St.,W,L
+North Carolina St.,Wright St.,L,W
+Northern Kentucky,Wright St.,W,L
+Youngstown St.,Wright St.,W,L
+Stanford,Wyoming,W,L
+Iowa St.,Xavier,W,L
+Marquette,Xavier,W,L
+Cornell,Yale,L,W
+Penn,Yale,W,L
+Princeton,Yale,L,W
+Southern Utah,Yale,W,L
+SIU Edwardsville,Youngstown St.,W,L
+Wright St.,Youngstown St.,L,W
