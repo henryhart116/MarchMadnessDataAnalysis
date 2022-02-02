@@ -12,11 +12,15 @@ from sklearn.model_selection import *
 from sklearn import metrics
 
 #Importing team data
-team_data = pd.read_csv('cbb.csv', header=0,index_col='TEAM')
-print(team_data['YEAR'].unique())
+team_data = pd.read_csv('cbb21.csv', header=0,index_col='TEAM')
 win_perc = pd.Series(team_data['W']/team_data['G'])
 team_data['win%'] = win_perc.values
 team_data = pd.DataFrame.drop(team_data, 'W',1)
 team_data = pd.DataFrame.drop(team_data, 'G',1)
-team_data_2021 = team_data[team_data['YEAR']=='2021']
-print(team_data_2021)
+
+# Importing Matchup Data
+game_data = pd.read_csv('2021Matchups.csv', header=0)
+game_data['result'] = game_data['result'].str[0]
+game_data = game_data[game_data['result']=='W']
+game_data['team'] = game_data['team'].str.replace('+',' ')
+game_data['winner'] = game_data['team']
