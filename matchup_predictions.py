@@ -23,4 +23,13 @@ game_data = pd.read_csv('2021Matchups.csv', header=0)
 game_data['result'] = game_data['result'].str[0]
 game_data = game_data[game_data['result']=='W']
 game_data['team'] = game_data['team'].str.replace('+',' ')
-game_data['winner'] = game_data['team']
+game_data = game_data.set_index('team')
+#game_data['winner'] = game_data['team']
+
+# Joining Data
+match_up_data = game_data.join(team_data,how="inner")
+match_up_data = match_up_data.reset_index().set_index('opponent')
+match_up_data = match_up_data.join(team_data,how="inner",rsuffix='_OPP')
+match_up_data = match_up_data.rename(columns={'index':'TEAM'})
+match_up_data = match_up_data.reset_index().set_index('TEAM').rename(columns={'index':'opponent'})
+print(match_up_data)
