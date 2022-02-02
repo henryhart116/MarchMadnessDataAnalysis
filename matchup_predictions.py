@@ -93,3 +93,26 @@ training_y = training_data['result']
 log_model.fit(training_x,training_y)
 
 # Testing on 2022 Games
+team_data_2022 = pd.read_csv('cbb22.csv', header=0,index_col='TEAM')
+#win_perc = pd.Series(team_data['W']/team_data['G'])
+#team_data['win%'] = win_perc.values
+team_data_2022 = pd.DataFrame.drop(team_data_2022, 'W',1)
+team_data_2022 = pd.DataFrame.drop(team_data_2022, 'G',1)
+
+game_data_2022 = pd.read_csv('2022Matchups.csv', header=0)
+game_data_2022['result'] = game_data_2022['result'].str[0]
+#game_data = game_data[game_data['result']=='W']
+game_data_2022['team'] = game_data_2022['team'].str.replace('+',' ')
+game_data_2022 = game_data_2022.set_index('team')
+#game_data['winner'] = game_data['team']
+
+match_up_data_2022 = game_data_2022.join(team_data_2022,how="inner")
+match_up_data_2022 = match_up_data_2022.reset_index().set_index('opponent')
+match_up_data_2022 = match_up_data_2022.join(team_data_2022,how="inner",rsuffix='_OPP')
+match_up_data_2022 = match_up_data_2022.rename(columns={'index':'TEAM'})
+match_up_data_2022 = match_up_data_2022.reset_index().set_index('TEAM').rename(columns={'index':'opponent'})
+match_up_data_2022 = pd.DataFrame.drop(match_up_data_2022,['CONF','CONF_OPP','date','opponent'],1)
+
+test_x = pd.DataFrame.drop(training_data,'result',1)
+test_y = training_data['result']
+log_model.predict(test_x)
